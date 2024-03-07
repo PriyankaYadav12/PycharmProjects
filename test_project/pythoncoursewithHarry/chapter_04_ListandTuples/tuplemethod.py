@@ -1,0 +1,5 @@
+tuples = (10,21,32,43,5,6,6)
+print(tuples)
+print(type(tuples))
+print(tuples.count(1))
+print(tuples.index(10))
